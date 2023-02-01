@@ -1,0 +1,16 @@
+.infobox {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background: #111;
+    text-align: center;
+    color: white;
+    border-radius: 8px;
+    transform: translateX(-50%);
+    z-index: 100;
+}
